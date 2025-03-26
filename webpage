@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - PPC Candidate</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            text-align: center;
+            margin: 0;
+        }
+        header {
+            background-color: #6a1b9a;
+            color: white;
+            padding: 20px;
+        }
+        section {
+            padding: 50px;
+            background: white;
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact-form input, .contact-form textarea {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .contact-form button {
+            background-color: #6a1b9a;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: lightgray;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name for Don Valley North - PPC</h1>
+        <p>Fighting for Freedom, Fairness, and Responsibility</p>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Introduce yourself, your background, and why you are running for office.</p>
+        <img src="your-image.jpg" alt="Your Campaign Photo" width="300">
+    </section>
+    
+    <section id="platform">
+        <h2>My Platform</h2>
+        <p>List key policy issues you support and your stance on them.</p>
+        <a href="your-policy-document.pdf" target="_blank">Download My Policy Plan</a>
+    </section>
+    
+    <section id="get-involved">
+        <h2>Get Involved</h2>
+        <p>Encourage volunteers and supporters to join your campaign.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:ivan.milivojevic@teamppc.ca">ivan.milivojevic@teamppc.ca</a></p>
+        <form class="contact-form">
+            <input type="text" placeholder="Your Name" required><br>
+            <input type="email" placeholder="Your Email" required><br>
+            <textarea placeholder="Your Message" rows="5" required></textarea><br>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Your Name | PPC Don Valley North</p>
+        <p>Follow me on <a href="https://twitter.com/leogray01" target="_blank">X (@leogray01)</a></p>
+    </footer>
+</body>
+</html>
