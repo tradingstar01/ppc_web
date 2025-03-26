@@ -1,9 +1,9 @@
-<index.html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - PPC Candidate</title>
+    <title>Ivan Milivojevic - PPC Candidate</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -48,14 +48,14 @@
 </head>
 <body>
     <header>
-        <h1>Your Name for Don Valley North - PPC</h1>
+        <h1>Ivan Milivojevic for Don Valley North - PPC</h1>
         <p>Fighting for Freedom, Fairness, and Responsibility</p>
     </header>
     
     <section id="about">
         <h2>About Me</h2>
         <p>Introduce yourself, your background, and why you are running for office.</p>
-        <img src="your-image.jpg" alt="Your Campaign Photo" width="300">
+        <img src="your-image.jpg" alt="Ivan Milivojevic Campaign Photo" width="300">
     </section>
     
     <section id="platform">
@@ -66,7 +66,7 @@
     
     <section id="get-involved">
         <h2>Get Involved</h2>
-        <p>Encourage volunteers and supporters to join your campaign.</p>
+        <p>Encourage volunteers and supporters to join my campaign.</p>
     </section>
     
     <section id="contact">
@@ -81,7 +81,7 @@
     </section>
     
     <footer>
-        <p>&copy; 2025 Your Name | PPC Don Valley North</p>
+        <p>&copy; 2025 Ivan Milivojevic | PPC Don Valley North</p>
         <p>Follow me on <a href="https://twitter.com/leogray01" target="_blank">X (@leogray01)</a></p>
     </footer>
 </body>
